@@ -13,8 +13,4 @@ describe('AppComponent', () => {
       ],
     }).compileComponents();
   });
-
-  it('should create the app', () => {
-   
-  });
 });
